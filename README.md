@@ -28,4 +28,4 @@ Up next week:
 Get advice/help from classmates with experience in Android app development  
 update username/password so it's more functional  
 run tests/add code, views, buttons, design, try qr scanner function again 
-
+get app to a functional stage and upload code from android studio 
