@@ -18,15 +18,14 @@ Tutorial videos including data storage, code, seek help to look over/improve cod
 Finish code, test app, run tests using other people, seek help in improving code, turn in  
 
 Time log:  
-Spent 3.5 hours watching android studio tutorial videos 
-In the course: building layouts part 1 
-Final poject idea: a kitchen inventory app that can be used both at home and at work in restaurants  
-Spent 1.5 hours whiteboarding project idea 
-Became familiar with android studio 
-Psuedocode rough draft 
+2 hours spent on tutorial videos including networking, data storage, how to use qr code scanner in android application  
+2 hours trying to incorporate qr scanner into the android app, did not complete this step however because I needed more code  
+Did start coding and made new views and buttons  
+Watched videos on importing data and creating usernames/passwords  
+Added username/password entry option however it's not 100% functional yet  
 
 Up next week: 
-Watch next tutorial videos, next lesson in Android Basics 
-Code in android studio 
-Get advice/help from classmates with experience in Android app development 
- 
+Get advice/help from classmates with experience in Android app development  
+update username/password so it's more functional  
+run tests/add code, views, buttons, design, try qr scanner function again 
+
